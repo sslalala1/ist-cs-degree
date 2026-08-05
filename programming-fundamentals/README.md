@@ -1,4 +1,4 @@
-# Fundamentals of Programming (Fundamentos da Programação)
+# Programming Fundamentals (Fundamentos da Programação)
 
 Introductory programming course at Instituto Superior Técnico, taught in Python.
 
